@@ -1,0 +1,47 @@
+Operators:
+============
+= assignment operator
+
+right value will be assigned to left variable
+
+Arthemetic Operators:
+adding ==> +
+subtracting ==> -
+multiplying===>*
+division===> / quotient
+modulo division===>% ==>reminder
+
+Comparison operators(boolean value)
+======================
+verify the condition and return true or false
+greater than > //to check first number greater than second or not
+less than < //to check first number less than second or not
+greater or equal >=//to check first number greater than or equal to second or not
+less than or equal <= //to check first number less than or equal to second or not
+equal to == // to check whether the both the values are equal or not
+not equal !=
+
+= vs ==
+= assigns the value from right to left
+== will check the right and left side values are equal or not
+
+logical operator
+0==>indicates false
+1==>indicates true
+gender should be female //t  
+and (&&)
+address should be in ts //t 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

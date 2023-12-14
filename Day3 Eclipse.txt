@@ -1,0 +1,39 @@
+.class file version
+
+Ecllipse IDE LINK:
+
+https://www.eclipse.org/downloads/packages/installer
+
+Depricated method:
+the methods which we have in older versions of java and current version doesn"t have it
+
+Datatypes means:
+it specfies what kind of data is beign stored in a variable
+
+types of DataTyes:
+short
+byte==>-127 to 128
+int
+char 
+float
+long
+double
+boolean
+
+syntax :
+datatype variableName;//declaring a variable
+variableName = (value);//initialising the variable to given value
+datatype variableName =(vaule);//declaring and initialising the variable to given value
+
+
+variable means:
+int a;//declare a variable
+//-2147483648 to 2147483647
+a=1234;
+
+
+
+
+GB==>GIGA BYTE
+
+

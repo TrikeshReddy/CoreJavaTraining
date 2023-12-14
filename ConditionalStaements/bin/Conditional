@@ -1,0 +1,23 @@
+ControlSatements:
+
+they will helping us to control the execution process
+
+simple if
+syntax :
+if(condition){
+executes if condition is true
+
+}
+
+if else
+based on given condition it will decide which block to be executed
+
+
+syntax:
+
+if(condition){
+executes if condition is true
+}
+else{
+execute if condition is false
+}

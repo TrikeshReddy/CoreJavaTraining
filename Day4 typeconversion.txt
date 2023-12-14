@@ -1,0 +1,14 @@
+TypeConversion
+
+Narrowing/explicit/manually==>there will be a loss of data 
+converting from a lager datatype to a smaller datatype
+example:
+int x =65;
+char c=(char)x;//A
+
+
+widening/implicit/automatic
+converting from a smaller datatype to a larger datatype
+example:
+char c='A';
+int x =c;//65

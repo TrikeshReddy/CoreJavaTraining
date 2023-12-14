@@ -1,0 +1,48 @@
+Java
+=====
+what is java?
+java is a programming language which has the following features:
+OOP languge
+platform independent
+robust
+secure
+
+Do we have an alternatives for it?
+.net,python,Golang,rust
+
+why to choose java?
+platform independent
+secure
+robust
+OOP
+
+technologies finished
+======================
+html5,css3,javascript,
+
+java was started by james gosling==>sun microsystem
+
+why did he start?
+in order reduce time and add new features to c++
+
+java was acquired by oracle
+
+what is latest version of java?
+java 21(LTS)
+major projects are in java8,11,17
+because they have LTS==>Long time support
+==>till the tenure they will do the bug fixing 
+
+migration projects
+===================
+migration ==>moving one to another version in same technology
+ or 
+moving one technology to other technology
+
+
+
+
+
+
+
+
