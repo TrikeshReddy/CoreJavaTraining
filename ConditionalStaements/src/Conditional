@@ -2,14 +2,14 @@ ControlSatements:
 
 they will helping us to control the execution process
 
-simple if
+simple if==>(it has only one block and executes if condtion is true)
 syntax :
 if(condition){
 executes if condition is true
 
 }
 
-if else
+if else(2 blocks if condition is true if block will be executed if condition is false else block will be executed)
 based on given condition it will decide which block to be executed
 
 
@@ -21,3 +21,55 @@ executes if condition is true
 else{
 execute if condition is false
 }
+
+
+else if :
+
+syntax:
+if(condition1){
+executes if condition1 is true
+}
+else if(condition2){
+executes if condition1 to be false condition2 is true
+}
+else if(condition3){
+executes if condition1,condition2 to be false condition3 is true
+}
+else{
+execute if all the above conditions(condition1,condition2,conditionn3) is false
+}
+
+//employee number if A,b,c &d
+//employee should be in all 4
+//employee should be in any of 4
+//employee should be in a&b or should be in c&d 
+
+switch case
+syntax
+
+
+switch (key) {//1
+		case value1:
+			//first statemnt
+			
+		case value2:
+			//second statement
+			
+		case value3:
+			//third statement
+			
+		default:
+			break;
+		}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+pattern 
+
+n =3
+* * * 
+* * *
+* * *
+
+System.out.println
+will print the given content and moves to the new line
+
+  vs 
+  System.out.print
+  will print 
+pattern1:
+* * * *
+* * * * 
+* * * *
+Pattern2
+*
+**
+***
+****
+*****
+pattern 3:
+* * * *
+* * *
+* *
+*
+* *
+* * *
+* * * *
