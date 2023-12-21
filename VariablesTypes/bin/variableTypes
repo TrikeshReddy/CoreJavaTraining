@@ -1,0 +1,10 @@
+Variable types:
+local:with in a method 
+instance : within a class outside the method
+static:within a class outside the method will use static keyword
+
+static Vs non static
+
+method signature
+public static void main() //static method
+public void main() //non static method
