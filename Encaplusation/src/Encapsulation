@@ -1,0 +1,5 @@
+Encapsulation:
+	restricting the direct access access of a element /attribute is termed as encapsulation
+
+	private keyword will be used to declare variables
+	will declare get and set methods for those with public access modifier

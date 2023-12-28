@@ -1,0 +1,26 @@
+methods :
+it is block of code which performs certain task
+
+method types:
+based return type and arguments we have 4 types
+
+1:method with return type with argument
+//return type int square(int i//arguments) {
+		System.out.println("Square called");
+		return i*i;
+	}
+2:method with return type with out argument
+int dummy() {
+		return 4;
+	}
+
+3:method with out return type with argument
+void printSquare(int i) {
+		System.out.println("print Square called");
+		System.out.println(i*i);
+	}
+4:method with out return type and without argument
+void justPrint(){
+		System.out.println("justprint method called");
+
+}

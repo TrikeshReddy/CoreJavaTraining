@@ -11,12 +11,12 @@ Datatypes means:
 it specfies what kind of data is beign stored in a variable
 
 types of DataTyes:
-short
 byte==>-127 to 128
+short
+char
 int
-char 
+long 
 float
-long
 double
 boolean
 
